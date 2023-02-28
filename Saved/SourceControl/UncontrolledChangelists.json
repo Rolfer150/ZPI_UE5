@@ -5,10 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine Projekty/MonsterSlayer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine Projekty/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset",
 				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WZ/IKUOUNUMG0L3G6MM3Y2EDA.uasset",
 				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/23/S692O0EUHNU2VKL73ZKUD4.uasset",
-				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset",
-				"D:/Unreal Engine Projekty/MonsterSlayer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset"
 			]
 		}
 	]
