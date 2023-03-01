@@ -5,15 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WZ/IKUOUNUMG0L3G6MM3Y2EDA.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/23/S692O0EUHNU2VKL73ZKUD4.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/FSlotStruct.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/InventorySystem.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/FItemStruct.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/Item_data.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/IInteractInterface.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/Items/TESTItem.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/W7/Q66VI2J2H7M1SX65H8U9MU.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/ItemData.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/ItemDataComponent.uasset",
+				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/Inventory/Items/Icons/apple_T.uasset",
 				"D:/Pulpit/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MT/D1T6FZL2SN5RETMBNGB8MH.uasset",
 				"D:/Pulpit/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FS/0AQOR0FEIHZ4SWBZF02R0Q.uasset",
 				"D:/Pulpit/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7H/PPEAXRC2KTIL50WRR1F1D5.uasset",
 				"D:/Pulpit/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MH/WGU889N9MWAB934F7G19HI.uasset",
 				"D:/Unreal Engine Projekty/MonsterSlayer/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Unreal Engine Projekty/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset",
-				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WZ/IKUOUNUMG0L3G6MM3Y2EDA.uasset",
-				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/23/S692O0EUHNU2VKL73ZKUD4.uasset",
-				"C:/Users/kamil/Desktop/MonsterSlayer/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset"
+				"D:/Unreal Engine Projekty/MonsterSlayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/F69I8JX0C3AYDB3PLK2XAB.uasset"
 			]
 		}
 	]
