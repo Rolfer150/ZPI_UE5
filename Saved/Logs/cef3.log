@@ -1,1 +1,32 @@
-[0228/165801.936:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0302/113254.119:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Nieprawid³owy klucz do u¿ycia w podanym stanie. (0x8009000B)
+[0302/113257.533:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0302/113454.333:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0302/114850.915:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0302/114851.230:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0302/114851.389:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 102 ms
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0302/115331.115:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0302/115331.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0302/115331.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0302/115331.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0302/115331.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0302/115331.117:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0302/115340.238:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0302/115340.238:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
